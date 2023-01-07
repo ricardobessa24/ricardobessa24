@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ricardo Bessa</h1>
-<h3 align="center">Apaixonado pela Informática</h3>
+<h3 align="center">Computer engineering 🧡</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c9/18/69/c91869eaf8d12fb097ab060e891eb10a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardobessa24&label=Profile%20views&color=0e75b6&style=flat" alt="ricardobessa24" /> </p>
 
